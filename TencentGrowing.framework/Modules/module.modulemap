@@ -1,0 +1,6 @@
+framework module TencentGrowing {
+  umbrella header "TencentGrowing.h"
+
+  export *
+  module * { export * }
+}
